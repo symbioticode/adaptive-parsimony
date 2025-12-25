@@ -32,8 +32,8 @@ This repository documents the AP framework, its formal structure, case studies, 
 
 ## 📚 Getting Started
 
-1. **Read the Manifesto** → [`manifesto/adaptive-parsimony-manifesto.md`](manifesto/adaptive-parsimony-manifesto.md)
-2. **Explore the Framework** → [`framework/ap_formalization_v01.md`](framework/ap_formalization_v01.md)
+1. **Read the Manifesto** → [`manifesto/MANISFESTO.md`](manifesto/MANISFESTO.md)
+2. **Explore the Framework** → [`framework/ap_formalization_v01.md`](framework/formalization.md)
 3. **Apply the Checklist** → [`mvp/checklist.md`](mvp/checklist.md)
 4. **Study the Protocols** → [`protocols/`](protocols/)
 5. **Run the Tools** → [`tools/`](tools/)
@@ -73,8 +73,8 @@ It’s not a finished theory—it’s a living process. Join us to test, refine,
 
 ## 🔗 Links
 
-- [Manifesto](manifesto/adaptive-parsimony-manifesto.md)
-- [Formalization](framework/ap_formalization_v01.md)
+- [Manifesto](manifesto/manifesto.md)
+- [Formalization](framework/formalization.md)
 - [GitHub Discussions](https://github.com/symbioticode/adaptive-parsimony/discussions)
 - [Protocol Template](mvp/protocol-template.md)
 

@@ -1,0 +1,33 @@
+# --- Adaptive Parsimony Gitignore (Frugal Edition) ---
+
+# Ignore editor/OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Ignore Python cache (for tools/)
+__pycache__/
+*.pyc
+
+# Ignore local environment files
+.env
+*.local
+
+# Ignore save.py logs (if any)
+save.log
+save.py
+
+# Ignore experimental drafts not meant for versioning
+philosophical-reflection.md
+*.draft.md
+*.tmp.md
+
+# Ignore temporary diagrams or exports
+*.png
+*.svg
+*.pdf
+
+# Ignore backup files
+*~
+*.bak
