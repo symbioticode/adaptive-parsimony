@@ -8,6 +8,7 @@
 
 Adaptive Parsimony (AP) is a design methodology that formalizes how efficient architectures emerge from strict constraints through empirical exploration.  
 Rather than optimizing predefined objectives, AP describes how protocols and patterns *crystallize* from iterative adaptation under pressure.
+<img width="1536" height="1024" alt="ChatGPT Image 24 déc  2025, 15_24_03" src="https://github.com/user-attachments/assets/f3cab9ba-a235-42dd-af4e-2b4461a2b010" />
 
 > **Constraints → Exploration → Feedback → Emergence**
 
